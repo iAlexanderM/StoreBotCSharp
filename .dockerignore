@@ -8,7 +8,6 @@ Images/
 
 .env
 
-Dockerfile
 docker-compose.yml
 
 *.user
