@@ -1,0 +1,16 @@
+bin/
+obj/
+Data/
+Images/
+
+.git/
+.gitignore
+
+.env
+
+Dockerfile
+docker-compose.yml
+
+*.user
+*.vscode/
+*.vs/
